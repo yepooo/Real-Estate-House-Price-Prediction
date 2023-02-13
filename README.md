@@ -25,3 +25,15 @@ Data split (X_train, X_test, y_train, y_test)
 Applying Linear Regression
 
 6)Grid SearchCV :for finding the best model
+
+Technologies used:
+
+Python
+
+Numpy and Pandas for data cleaning
+
+Matplotlib for data visualization
+
+Sklearn for model building
+
+Jupyter notebook
