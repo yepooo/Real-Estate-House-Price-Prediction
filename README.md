@@ -4,6 +4,7 @@ Predicting house prices is a common problem in the real estate industry, as the 
 This is an model  inspired by the concept of predicting property prices based on the area, bedrooms, bathrooms and location. 
 
 THE STEPS INVOLVED:
+
 1)Data loading
 
 we will be using Banglore house price prediction dataset from kaggle
