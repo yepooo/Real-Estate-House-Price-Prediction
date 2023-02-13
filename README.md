@@ -26,14 +26,14 @@ Applying Linear Regression
 
 6)Grid SearchCV :for finding the best model
 
-Technologies used:
+TECHNOLOGIES USED:
 
-Python
+1.Python
 
-Numpy and Pandas for data cleaning
+2.Numpy and Pandas for data cleaning
 
-Matplotlib for data visualization
+3.Matplotlib for data visualization
 
-Sklearn for model building
+4.Sklearn for model building
 
-Jupyter notebook
+5.Jupyter notebook
