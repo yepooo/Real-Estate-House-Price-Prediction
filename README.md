@@ -7,7 +7,8 @@ THE STEPS INVOLVED:
 
 1)Data loading
 
-we will be using Banglore house price prediction dataset from kaggle
+We will be using Banglore house price prediction dataset from kaggle
+
 Data shape is 13320 rows and 9 columns.
 
 2)Data Preprocessing 
