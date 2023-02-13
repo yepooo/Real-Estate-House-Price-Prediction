@@ -2,7 +2,6 @@
 
 Predicting house prices is a common problem in the real estate industry, as the value of a property can have significant financial and investment implications. Machine learning can be used to automate the process of house price prediction, making it faster, more efficient, and less prone to human error.
 This is an model  inspired by the concept of predicting property prices based on the area, bedrooms, bathrooms and location. 
-Thee goal is to predict house prices to solve real-world problems and to promote innovation and learning in the field of machine learning.
 
 THE STEPS INVOLVED:
 1)Data loading
